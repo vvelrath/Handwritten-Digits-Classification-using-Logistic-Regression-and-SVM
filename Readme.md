@@ -5,7 +5,7 @@ Adithya Ramakrishnan (aramakri@buffalo.edu)
 
 The project is about implementing Logistic Regression and use Support Vector Machine toolbox to classify hand-written digit images and compare the performance of these methods using various parameters involved.
 
-### Logistic regression Accuracy:
+### Logistic regression Accuracy
 
 1) Gradient Descent
 	
@@ -19,7 +19,7 @@ The project is about implementing Logistic Regression and use Support Vector Mac
 	Validation Set accuracy : 90.55%
 	Test Set accuracy : 91.13%
 	
-### Multi-class Logistic regression Accuracy:
+### Multi-class Logistic regression Accuracy
 
 1) Gradient Descent
 	
@@ -40,7 +40,3 @@ The project is about implementing Logistic Regression and use Support Vector Mac
 	Training Set accuracy : 93.66%
 	Validation Set accuracy : 90.35%
 	Test Set accuracy : 90.2%
-
-	
-	
-
